@@ -1,0 +1,13 @@
+.container {
+  margin: 0;
+  text-align: center;
+  background-color: #333;
+  height: 100vh;
+}
+
+#canvas {
+  margin: 36px auto;
+  background-color: #ccc;
+  width: 960px;
+  height: 672px;
+}
